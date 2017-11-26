@@ -1,0 +1,33 @@
+$Minimum
+[1] 18
+
+$`Percentile 10`
+[1] 53
+
+$`Quartile 1`
+[1] 69
+
+$Median
+[1] 80
+
+$Average
+[1] 75.91377
+
+$`Quartile 3`
+[1] 87
+
+$`Percentile 90`
+[1] 93.7
+
+$Maximum
+[1] 100
+
+$Range
+[1] 82
+
+$Stdev
+[1] 15.8822
+
+$Missing
+[1] 0
+
